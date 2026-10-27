@@ -8,6 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/adambyte-dev"><img src="https://img.shields.io/github/followers/adambyte-dev?label=Followers&style=for-the-badge&color=238636&logo=github" /></a>
+  <a href="https://www.instagram.com/adambyte.dev/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Status-Open_to_Collaborate-blue?style=for-the-badge" />
   <img src="https://komarev.com/ghpvc/?username=adambyte-dev&style=for-the-badge&color=8957e5&label=Profile+Views" />
 </p>
