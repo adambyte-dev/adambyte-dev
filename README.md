@@ -52,11 +52,7 @@ Saya adalah siswa **Teknik Jaringan Komputer dan Telekomunikasi (TJKT)** di **SM
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=adambyte-dev&theme=github_dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF" width="100%" />
     </td>
   </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adambyte-dev&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" width="70%" />
-    </td>
-  </tr>
+
 </table>
 
 </div>
